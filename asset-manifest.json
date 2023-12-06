@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sekki-vi/cautious-octo-goggles/static/css/main.3770f588.css",
+    "main.js": "/Sekki-vi/cautious-octo-goggles/static/js/main.9d48c24d.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Sekki-vi/cautious-octo-goggles/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Sekki-vi/cautious-octo-goggles/index.html",
+    "main.3770f588.css.map": "/Sekki-vi/cautious-octo-goggles/static/css/main.3770f588.css.map",
+    "main.9d48c24d.js.map": "/Sekki-vi/cautious-octo-goggles/static/js/main.9d48c24d.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Sekki-vi/cautious-octo-goggles/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3770f588.css",
+    "static/js/main.9d48c24d.js"
+  ]
+}
